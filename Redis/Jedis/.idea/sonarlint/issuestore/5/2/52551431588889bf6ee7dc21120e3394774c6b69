@@ -1,0 +1,26 @@
+
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(ï¦„ù
+T
+java:S4973&"9Use the "equals" method if value comparison was intended.(ã›Äœþÿÿÿÿ
+O
+java:S4973'"9Use the "equals" method if value comparison was intended.(ÙÃÞ¡
+P
+java:S1854"5Remove this useless assignment to local variable "d".(Ó±…œüÿÿÿÿ
+:
+java:S1659"Declare "b" on a separate line.(Ó±…œüÿÿÿÿ
+:
+java:S1659"Declare "c" on a separate line.(Ó±…œüÿÿÿÿ
+:
+java:S1659"Declare "d" on a separate line.(Ó±…œüÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(Ó±…œüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï¦„ù
+<
+java:S2129#"!Remove this "Integer" constructor(±Üº¤ûÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(×þÝï
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ã›Äœþÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÙÃÞ¡
+N	java:S106("9Replace this use of System.out or System.err by a logger.(«´Ñ
+A
+java:S1481"&Remove this unused "d" local variable.(Ó±…œüÿÿÿÿ

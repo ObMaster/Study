@@ -1,0 +1,28 @@
+server:
+  port: 6378
+spring:
+  redis:
+    host: 172.18.232.233
+    port: 6379
+    password: 111111
+
+
+dog:
+  address: 湖北省天门市
+  test1: "湖北省\n天门市"     # 双引号内的转义字符有效
+  test2: '湖北省\n天门市'     # 单引号内的转义字符无效
+
+person:
+  name: OMaster${random.uuid}   # 占位符，随机UUID
+  age: ${random.int(30)}    # 随机整数
+  happy: false
+  hello: ${random.value}
+  birth: 2000/01/01
+  maps: {k1: v1,k2: v2}
+  lists:
+    - code
+    - girl
+    - music
+  dog:
+    name: ${person.hello:hello}_小花
+    age: 1
